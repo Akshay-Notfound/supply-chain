@@ -1,0 +1,96 @@
+<svg width="950" height="220" viewBox="0 0 950 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c16"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#090d18"/>
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+
+    <linearGradient id="laserGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ec4899" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#1e293b" stroke-width="0.6" stroke-opacity="0.4"/>
+    </pattern>
+  </defs>
+
+  <style>
+    @keyframes laserScan {
+      0% { transform: translateY(0); opacity: 0.15; }
+      50% { opacity: 0.95; }
+      100% { transform: translateY(220px); opacity: 0.15; }
+    }
+    @keyframes pulseText {
+      0%, 100% { filter: drop-shadow(0 0 8px rgba(56, 189, 248, 0.4)); }
+      50% { filter: drop-shadow(0 0 20px rgba(236, 72, 153, 0.7)); }
+    }
+    .title {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      font-weight: 900;
+      letter-spacing: 4px;
+      animation: pulseText 3.2s infinite ease-in-out;
+    }
+    .laser {
+      animation: laserScan 4.2s infinite linear;
+    }
+  </style>
+
+  <!-- Background Canvas -->
+  <rect width="950" height="220" rx="14" fill="url(#bgGrad)" stroke="#334155" stroke-width="1.5"/>
+  <rect width="950" height="220" rx="14" fill="url(#grid)"/>
+
+  <!-- Glowing background orbs -->
+  <circle cx="220" cy="110" r="110" fill="#38bdf8" opacity="0.12" filter="url(#glow)"/>
+  <circle cx="730" cy="110" r="110" fill="#ec4899" opacity="0.12" filter="url(#glow)"/>
+
+  <!-- Scanning laser line -->
+  <line x1="20" y1="0" x2="930" y2="0" stroke="url(#laserGrad)" stroke-width="2" class="laser"/>
+
+  <!-- High-tech corner accents -->
+  <path d="M 18 32 L 18 18 L 32 18" fill="none" stroke="#38bdf8" stroke-width="2.5" opacity="0.85"/>
+  <path d="M 932 32 L 932 18 L 918 18" fill="none" stroke="#ec4899" stroke-width="2.5" opacity="0.85"/>
+  <path d="M 18 188 L 18 202 L 32 202" fill="none" stroke="#38bdf8" stroke-width="2.5" opacity="0.85"/>
+  <path d="M 932 188 L 932 202 L 918 202" fill="none" stroke="#ec4899" stroke-width="2.5" opacity="0.85"/>
+
+  <!-- Top badge pill -->
+  <g transform="translate(475, 36)">
+    <rect x="-210" y="-12" width="420" height="24" rx="12" fill="#0d1726" stroke="#6366f1" stroke-width="1"/>
+    <circle cx="-185" cy="0" r="3.5" fill="#38bdf8"/>
+    <circle cx="185" cy="0" r="3.5" fill="#ec4899"/>
+    <text x="0" y="4" text-anchor="middle" font-family="'Segoe UI', monospace" font-size="10.5" font-weight="700" fill="#e2e8f0" letter-spacing="2">
+      ⚡ GROUP-5 // AKSHAY &amp; TEJASWINI COLLABORATIVE BI ⚡
+    </text>
+  </g>
+
+  <!-- Main Hero Title -->
+  <text x="475" y="105" text-anchor="middle" font-size="33" fill="url(#textGrad)" class="title">
+    PLUGS ELECTRONICS SUPPLY CHAIN
+  </text>
+
+  <!-- Subtitle -->
+  <text x="475" y="146" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="600" fill="#94a3b8" letter-spacing="2">
+    END-TO-END RETAIL &amp; INVENTORY INTELLIGENCE ENGINE
+  </text>
+
+  <!-- Tool Tech Stack Footer inside banner -->
+  <text x="475" y="182" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#38bdf8" letter-spacing="1.5">
+    🐬 MySQL Workbench  |  📊 Microsoft Excel  |  📈 Tableau  |  ⚡ Power BI  |  🏗️ Star Schema
+  </text>
+</svg>

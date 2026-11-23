@@ -1,12 +1,29 @@
 <div align="center">
 
-# ⚡ Plugs Electronics — Supply Chain & Sales Analytics
-### Enterprise Multi-Tool Business Intelligence & Inventory Performance Engine
+  <!-- NATIVE ANIMATED CYBER BANNER -->
+  <img src="assets/banner.svg" width="100%" alt="PLUGS ELECTRONICS SUPPLY CHAIN Banner" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=850&height=50&lines=Plugs+Electronics+Supply+Chain+%26+Retail+Analytics;End-to-End+BI%3A+MySQL+%7C+Excel+%7C+Tableau+%7C+Power+BI;996%2C817+Fact+Lines+%7C+%24380M+Net+Sales+%7C+Star+Schema;Real-Time+Forensic+Reconciliation+%26+Stock+Optimization" alt="Typing SVG Banner" /></a>
+  <br/><br/>
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=880&height=50&lines=Developed+by+Akshay+%26+Tejaswini+(Group-5);Plugs+Electronics+Supply+Chain+%26+Retail+Analytics;End-to-End+BI%3A+MySQL+%7C+Excel+%7C+Tableau+%7C+Power+BI;996%2C817+Fact+Lines+%7C+%24380M+Net+Sales+%7C+Star+Schema;Real-Time+Forensic+Reconciliation+%26+Stock+Optimization" alt="Typing SVG Banner" /></a>
 
 <p align="center">
-  <strong>A multi-platform enterprise analytics architecture evaluating 1,000,000 retail records across 200 stores, 1,096 products, and 4,972 customers over 4+ years (2019–2023).</strong>
+  <strong>A collaborative multi-platform enterprise analytics architecture evaluating 1,000,000 retail records across 200 stores, 1,096 products, and 4,972 customers over 4+ years (2019–2023).</strong>
+</p>
+
+<!-- Author & Partner Badges -->
+<p align="center">
+  <a href="https://github.com/Akshay-Notfound">
+    <img src="https://img.shields.io/badge/Project%20Lead-Akshay-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Akshay" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/shubhtej1505/">
+    <img src="https://img.shields.io/badge/Project%20Partner-Tejaswini-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="Tejaswini" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Akshay-Notfound/supply-chain">
+    <img src="https://img.shields.io/badge/Team-Group--5-7C3AED?style=for-the-badge&logo=users&logoColor=white" alt="Group-5" />
+  </a>
 </p>
 
 <!-- Project Badges -->
@@ -16,6 +33,15 @@
 [![Net Sales](https://img.shields.io/badge/Net%20Sales-%24380M%20USD-FFD700?style=flat-square&logo=cashapp)](https://github.com/Akshay-Notfound/supply-chain)
 [![Git LFS](https://img.shields.io/badge/Storage-Git%20LFS%20Enabled-orange?style=flat-square&logo=git-lfs)](https://github.com/Akshay-Notfound/supply-chain)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)](LICENSE)
+
+---
+
+### 👥 Project Authors & Collaboration Hub (Group-5)
+*Engineered and delivered collaboratively by Akshay & Tejaswini:*
+
+<p align="center">
+  <img src="assets/team_contributors.gif" alt="Group-5 Contributors: Akshay & Tejaswini" width="98%" style="border-radius: 12px; box-shadow: 0 8px 25px rgba(0,0,0,0.5);" />
+</p>
 
 ---
 
@@ -352,6 +378,7 @@ supply-chain/
 ├── README.md                                       # Full documentation with snapshots & animation
 │
 ├── assets/                                         # Output snapshots & animated media
+│   ├── team_contributors.gif                       # [NEW] Animated Group-5 co-author showcase
 │   ├── dashboard_showcase.gif                      # [NEW] Cinematic showcase cycling dashboards
 │   ├── kpi_metrics_ticker.gif                      # [NEW] Dynamic glassmorphic KPI ticker
 │   ├── data_pipeline_flow.gif                      # [NEW] Animated end-to-end data pipeline flow
