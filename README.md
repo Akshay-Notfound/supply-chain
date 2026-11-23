@@ -400,11 +400,21 @@ mysql -u root -p < mysql/"SQL KPI for supply chain management.sql"
 
 ---
 
-## 👥 Contributors & Acknowledgments
+## 👥 Project Team & Contributors (Group-5)
 
-* **Project:** Plugs Electronics — Sales & Supply Chain Performance Analysis (Group-5)
-* **Lead Analytics & Engineering:** [Akshay](https://github.com/Akshay-Notfound)
-* **Special Thanks:** Plugs Electronics Hands-on Lab Program and Analytics Mentorship Team.
+This enterprise business intelligence initiative was collaboratively engineered and delivered by **Group-5**:
+
+<div align="center">
+
+| Contributor | Role & Domain Focus | GitHub Profile |
+| :---: | :--- | :---: |
+| <a href="https://github.com/Akshay-Notfound"><img src="https://github.com/Akshay-Notfound.png" width="85px;" alt="Akshay" style="border-radius: 50%;" /><br /><sub><b>Akshay</b></sub></a> | **Lead Analytics & Engineering**<br />• Kimball Star Schema Data Modeling<br />• MySQL Advanced KPI Queries & Window Functions<br />• Multi-Tool Architecture & Reconciliation | [![GitHub](https://img.shields.io/badge/Akshay--Notfound-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshay-Notfound) |
+| <a href="https://github.com/shubhtej1505/"><img src="https://github.com/shubhtej1505.png" width="85px;" alt="Tejaswini" style="border-radius: 50%;" /><br /><sub><b>Tejaswini</b></sub></a> | **Project Partner & BI Analyst**<br />• Business Intelligence & Dashboard Design<br />• Inventory Metrics & Supply Chain Analysis<br />• Report Synthesis & Data Storytelling | [![GitHub](https://img.shields.io/badge/shubhtej1505-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhtej1505/) |
+
+</div>
+
+### 🌟 Mentorship & Acknowledgments
+Special thanks to the **Plugs Electronics Hands-on Lab Program** and the **Analytics Mentorship Team** for invaluable guidance, feedback, and technical evaluation throughout the development of this project.
 
 <div align="center">
   <br />
