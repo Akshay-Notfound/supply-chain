@@ -3,34 +3,43 @@
 # ⚡ Plugs Electronics — Supply Chain & Sales Analytics
 ### Enterprise Multi-Tool Business Intelligence & Inventory Performance Engine
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=800&height=50&lines=Plugs+Electronics+Supply+Chain+%26+Retail+Analytics;End-to-End+BI%3A+MySQL+%7C+Excel+%7C+Tableau+%7C+Power+BI;996%2C817+Order+Lines+%7C+%24380M+Net+Sales+%7C+Star+Schema;Reconciled+Metrics+%26+Inventory+Replenishment+Optimization" alt="Typing SVG Banner" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=850&height=50&lines=Plugs+Electronics+Supply+Chain+%26+Retail+Analytics;End-to-End+BI%3A+MySQL+%7C+Excel+%7C+Tableau+%7C+Power+BI;996%2C817+Fact+Lines+%7C+%24380M+Net+Sales+%7C+Star+Schema;Real-Time+Forensic+Reconciliation+%26+Stock+Optimization" alt="Typing SVG Banner" /></a>
 
 <p align="center">
-  <strong>A comprehensive multi-platform analytics suite evaluating 1,000,000 retail records across 200 stores, 1,096 products, and 4,972 customers over 4+ years (2019–2023).</strong>
+  <strong>A multi-platform enterprise analytics architecture evaluating 1,000,000 retail records across 200 stores, 1,096 products, and 4,972 customers over 4+ years (2019–2023).</strong>
 </p>
 
 <!-- Project Badges -->
 [![GitHub Repository](https://img.shields.io/badge/Repository-Akshay--Notfound%2Fsupply--chain-blue?style=flat-square&logo=github)](https://github.com/Akshay-Notfound/supply-chain)
 [![Data Volume](https://img.shields.io/badge/Dataset-1M%2B%20Rows%20%7C%20996K%20Fact%20Lines-success?style=flat-square&logo=database)](https://github.com/Akshay-Notfound/supply-chain)
-[![Architecture](https://img.shields.io/badge/Data%20Model-Star%20Schema%20(Kimball)-8A2BE2?style=flat-square&logo=diagram-next)](https://github.com/Akshay-Notfound/supply-chain)
+[![Architecture](https://img.shields.io/badge/Data%20Model-Kimball%20Star%20Schema-8A2BE2?style=flat-square&logo=diagram-next)](https://github.com/Akshay-Notfound/supply-chain)
 [![Net Sales](https://img.shields.io/badge/Net%20Sales-%24380M%20USD-FFD700?style=flat-square&logo=cashapp)](https://github.com/Akshay-Notfound/supply-chain)
 [![Git LFS](https://img.shields.io/badge/Storage-Git%20LFS%20Enabled-orange?style=flat-square&logo=git-lfs)](https://github.com/Akshay-Notfound/supply-chain)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)](LICENSE)
 
 ---
 
-### 🎛️ Animated Multi-Dashboard Showcase
-*Seamless cross-platform intelligence across Power BI, Tableau, Excel, MySQL Workbench, and Star Schema Architecture:*
+### 🎛️ Animated Multi-Dashboard Cinematic Showcase
+*Continuous cross-platform intelligence across Power BI, Tableau, Excel, MySQL Workbench, and Star Schema Architecture:*
 
 <p align="center">
-  <img src="assets/dashboard_showcase.gif" alt="Plugs Electronics Analytics Showcase Animation" width="95%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+  <img src="assets/dashboard_showcase.gif" alt="Plugs Electronics Analytics Showcase Animation" width="98%" style="border-radius: 14px; box-shadow: 0 12px 35px rgba(0,0,0,0.6);" />
+</p>
+
+---
+
+### 📊 Real-Time Metric Ticker
+*Enterprise KPIs reconciled across all analytical platforms:*
+
+<p align="center">
+  <img src="assets/kpi_metrics_ticker.gif" alt="Plugs Electronics KPI Ticker Animation" width="98%" style="border-radius: 10px; box-shadow: 0 8px 25px rgba(0,0,0,0.4);" />
 </p>
 
 </div>
 
 ---
 
-## 🛠️ Tools, Technologies & Competencies
+## 🛠️ Tools, Technologies & Domain Competencies
 
 ### 💻 Technologies & Software Stack
 <p align="left">
@@ -58,11 +67,25 @@
 
 ---
 
+## 🔄 End-to-End Analytics Workflow & Data Pipeline
+
+The following live animated pipeline visualizes the journey from raw transaction ingestion to boardroom decision support:
+
+<p align="center">
+  <img src="assets/data_pipeline_flow.gif" alt="End-to-End Data Pipeline Flow" width="98%" style="border-radius: 10px; box-shadow: 0 8px 25px rgba(0,0,0,0.4);" />
+</p>
+
+1. **Extraction & Ingestion:** Raw 1,000,000-row transactional extract ingested via `LOAD DATA LOCAL INFILE` into MySQL.
+2. **Quality Audit & SQL KPIs:** Integrity validation with `COUNT(*)`, period-to-date baseline queries, and YoY growth CTEs.
+3. **Dimensional Data Modeling:** Deconstructed into a Kimball Star Schema with 2 Fact Tables and 4 Dimension Tables.
+4. **Multi-BI Serving Layer:** Replicated across Microsoft Excel (Slicers & Maps), Tableau (Geo-Analytics & Seasonality), and Power BI (DAX Time-Intelligence).
+5. **Reconciliation & Strategic Value:** Metric auditing, join fan-out correction, inventory replenishment thresholds, and margin optimization.
+
+---
+
 ## 📌 Executive Summary & Key Performance Indicators (KPIs)
 
-**Plugs Electronics** is a high-volume consumer-electronics retailer operating across **200 retail stores** in **5 distinct US geographic regions** (West, South, East, Midwest, and Southwest). The product catalog comprises **6 product types**, **1,096 individual products**, serving **4,972 customers** across **1,522 days** of retail activity.
-
-This end-to-end analytics project ingests raw transaction data, structures an optimized star schema, and replicates, validates, and audits retail KPIs across **MySQL**, **Microsoft Excel**, **Tableau**, and **Power BI**.
+**Plugs Electronics** is a high-volume consumer-electronics retailer operating across **200 retail stores** in **5 distinct US geographic regions** (West, South, East, Midwest, and Southwest). The product catalog spans **6 product types**, **1,096 individual products**, serving **4,972 customers** across **1,522 days** of sales history.
 
 ### 📊 Headline Metrics Snapshot (2019 – 2023)
 
@@ -70,7 +93,7 @@ This end-to-end analytics project ingests raw transaction data, structures an op
 |:---|:---:|:---|
 | **Total Net Sales** | **$380.4M** | Reconciled across platforms (~$380M Power BI / Excel, $388.1M gross in Tableau). |
 | **Gross Profit** | **$167.0M** | Achieved across 151K unique transactions with healthy gross profitability. |
-| **Gross Margin %** | **43.9%** | Wide variance across categories: Smartphones lead at **77.8%**, Audio at **33.5%**. |
+| **Gross Margin %** | **43.9%** | Significant variance across categories: Smartphones lead at **77.8%**, Audio at **33.5%**. |
 | **Total Orders** | **151,000+** | Average Order Value (**AOV**) stands strong at **$2,570 ($2.57K)**. |
 | **Return Rate** | **1.00%** | Exceptionally low returns signify strong customer satisfaction and product reliability. |
 | **Peak Revenue Year** | **2022 ($95M)** | Growth cooled to +2% YoY in 2022 after surging +16% in 2020 and +4% in 2021. |
@@ -90,8 +113,8 @@ erDiagram
     Fact_Sales }|..|| Dim_Date : "Date"
     Fact_Sales }|..|| Dim_Store : "Store ID"
     Fact_Sales }|..|| Dim_Customer : "Customer ID"
-    Fact_Sales }|..|| Dim_Product : "Product ID (Shared)"
-    Fact_Inventory }|..|| Dim_Product : "Product ID (Shared)"
+    Fact_Sales }|..|| Dim_Product : "Product ID (Shared Conformed)"
+    Fact_Inventory }|..|| Dim_Product : "Product ID (Shared Conformed)"
     
     Fact_Sales {
         int Order_Line_ID PK
@@ -145,7 +168,7 @@ erDiagram
 ```
 
 <p align="center">
-  <img src="assets/architecture_star_schema.png" alt="Star Schema Data Model" width="90%" style="border-radius: 8px; border: 1px solid #334155;" />
+  <img src="assets/architecture_star_schema.png" alt="Star Schema Data Model" width="92%" style="border-radius: 8px; border: 1px solid #334155;" />
   <br />
   <em>Figure 1: Production Star Schema showing Fact_Sales and Fact_Inventory bridged by the conformed Dim_Product dimension.</em>
 </p>
@@ -166,12 +189,14 @@ erDiagram
 The foundation begins with ingesting the 1,000,000-row flat transaction file using `LOAD DATA LOCAL INFILE` into MySQL. Key KPIs are queried using window functions (`LAG()`), Common Table Expressions (CTEs), and dynamic date filters.
 
 <p align="center">
-  <img src="assets/mysql_workbench_queries.png" alt="MySQL Workbench SQL Analysis" width="90%" style="border-radius: 8px; border: 1px solid #334155;" />
+  <img src="assets/mysql_workbench_queries.png" alt="MySQL Workbench SQL Analysis" width="92%" style="border-radius: 8px; border: 1px solid #334155;" />
   <br />
   <em>Figure 2: MySQL Workbench executing load verification, period-to-date queries, and YoY growth CTEs.</em>
 </p>
 
-#### 💡 Core SQL Implementation Highlights:
+<details>
+<summary><b>▶ Click to Expand Core SQL KPI Queries</b></summary>
+
 ```sql
 -- KPI 1: Dynamic Period-to-Date Performance (MTD, QTD, YTD)
 SELECT
@@ -188,6 +213,15 @@ SELECT
         THEN quantity * price ELSE 0 END) AS YTD_Sales
 FROM plugs_electronics_hands_on_lab_data
 WHERE date <= (SELECT MAX(date) FROM plugs_electronics_hands_on_lab_data);
+
+-- KPI 2: Product Type Breakdown
+SELECT
+    `Product Type`,
+    SUM(quantity) AS Total_Quantity,
+    SUM(quantity * price) AS Total_Sales
+FROM plugs_electronics_hands_on_lab_data
+GROUP BY `Product Type`
+ORDER BY Total_Sales DESC;
 
 -- KPI 3: Year-over-Year (YoY) Sales Growth with CTE and LAG() Window Function
 WITH Yearly_Sales AS (
@@ -212,6 +246,7 @@ SELECT
 FROM Sales_Growth
 ORDER BY Sales_Year;
 ```
+</details>
 
 ---
 
@@ -219,7 +254,7 @@ ORDER BY Sales_Year;
 The Excel dashboard translates the modeled data into a dynamic executive control panel featuring interactive slicers, geographic heatmaps, and stock replenishment metrics.
 
 <p align="center">
-  <img src="assets/excel_interactive_dashboard.png" alt="Excel Interactive Slicer Dashboard" width="90%" style="border-radius: 8px; border: 1px solid #334155;" />
+  <img src="assets/excel_interactive_dashboard.png" alt="Excel Interactive Slicer Dashboard" width="92%" style="border-radius: 8px; border: 1px solid #334155;" />
   <br />
   <em>Figure 3: Microsoft Excel Dashboard with dynamic slicers (Product Type, Fiscal Month, Region, Year), US map, and margin cards.</em>
 </p>
@@ -235,7 +270,7 @@ The Excel dashboard translates the modeled data into a dynamic executive control
 Built for operational visibility and regional drilling, the Tableau workbook enables interactive filtering by Store Region and Store State with real-time KPI re-computations.
 
 <p align="center">
-  <img src="assets/tableau_supply_chain_dashboard.png" alt="Tableau Supply Chain Performance Dashboard" width="90%" style="border-radius: 8px; border: 1px solid #334155;" />
+  <img src="assets/tableau_supply_chain_dashboard.png" alt="Tableau Supply Chain Performance Dashboard" width="92%" style="border-radius: 8px; border: 1px solid #334155;" />
   <br />
   <em>Figure 4: Tableau Performance Dashboard highlighting sales run-rates, store benchmarks, and weekday seasonality.</em>
 </p>
@@ -251,7 +286,7 @@ Built for operational visibility and regional drilling, the Tableau workbook ena
 The Power BI solution is structured around an enterprise star-schema architecture with comprehensive DAX measures, time-intelligence modeling, and six dedicated analytical views:
 
 <p align="center">
-  <img src="assets/powerbi_executive_dashboard.png" alt="Power BI Executive Overview Dashboard" width="90%" style="border-radius: 8px; border: 1px solid #334155;" />
+  <img src="assets/powerbi_executive_dashboard.png" alt="Power BI Executive Overview Dashboard" width="92%" style="border-radius: 8px; border: 1px solid #334155;" />
   <br />
   <em>Figure 5: Power BI Executive Overview featuring monthly sales/profit trends, family margins, and regional share donuts.</em>
 </p>
@@ -300,7 +335,7 @@ A critical responsibility of enterprise BI engineering is reconciling metrics ac
    * *Action:* Allocate prime in-store shelf space and promotional campaigns toward high-margin Smartphones and Computing accessories to maximize bottom-line profit without increasing operational costs.
 3. **Regional Market Expansion in the Southwest:**
    * *Finding:* The Southwest region accounts for only **11.5%** ($44.6M) of total sales, trailing behind the West ($111.9M) and South ($98.7M).
-   * *Action:* Target targeted local marketing and regional distribution center optimization in the Southwest to capture untapped consumer electronics demand.
+   * *Action:* Target local marketing and regional distribution center optimization in the Southwest to capture untapped consumer electronics demand.
 4. **Fix Data Warehouse Join Fan-outs:**
    * *Finding:* Denormalized one-to-many joins inflate inventory values in flat reporting layers.
    * *Action:* Maintain `Fact_Inventory` strictly at one row per product SKU, leveraging conformed dimensional keys (`Dim_Product`) for accurate inventory turnover ratios.
@@ -313,11 +348,13 @@ A critical responsibility of enterprise BI engineering is reconciling metrics ac
 supply-chain/
 │
 ├── .gitattributes                                  # Git LFS configuration for large binary files
-├── .gitignore                                      # Excludes temp Excel lockfiles and system caches
-├── README.md                                       # Executive project documentation & visual guide
+├── .gitignore                                      # Excludes temp lockfiles and system caches
+├── README.md                                       # Full documentation with snapshots & animation
 │
-├── assets/                                         # High-resolution output snapshots & media
-│   ├── dashboard_showcase.gif                      # Animated banner cycling through all dashboards
+├── assets/                                         # Output snapshots & animated media
+│   ├── dashboard_showcase.gif                      # [NEW] Cinematic showcase cycling dashboards
+│   ├── kpi_metrics_ticker.gif                      # [NEW] Dynamic glassmorphic KPI ticker
+│   ├── data_pipeline_flow.gif                      # [NEW] Animated end-to-end data pipeline flow
 │   ├── architecture_star_schema.png                # Kimball Star Schema dimensional data model
 │   ├── mysql_workbench_queries.png                 # SQL load validation, CTEs, and KPI grids
 │   ├── excel_interactive_dashboard.png             # Excel slicer dashboard with US choropleth map
@@ -334,7 +371,7 @@ supply-chain/
 │   └── SupplyChain.pbix                            # Production Power BI 6-page interactive report
 │
 ├── Report/
-│   ├── Plugs_Electronics_Project_Report.pdf        # 24-page comprehensive academic/business report
+│   ├── Plugs_Electronics_Project_Report.pdf        # 24-page comprehensive analytical report
 │   └── Plugs_Electronics_Sales_Analysis.pptx      # 17-slide executive stakeholder presentation
 │
 └── Tableau/
