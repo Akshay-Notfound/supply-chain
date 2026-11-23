@@ -441,7 +441,7 @@ This enterprise business intelligence initiative was collaboratively engineered 
 </div>
 
 ### 🌟 Mentorship & Acknowledgments
-Special thanks to the **Plugs Electronics Hands-on Lab Program** and the **Analytics Mentorship Team** for invaluable guidance, feedback, and technical evaluation throughout the development of this project.
+Special thanks to the **ExcelR EdTech Pvt Ltd** and the **Analytics Mentorship Team** for invaluable guidance, feedback, and technical evaluation throughout the development of this project.
 
 <div align="center">
   <br />
