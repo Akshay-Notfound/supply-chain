@@ -29,7 +29,7 @@
 <!-- Project Badges -->
 [![GitHub Repository](https://img.shields.io/badge/Repository-Akshay--Notfound%2Fsupply--chain-blue?style=flat-square&logo=github)](https://github.com/Akshay-Notfound/supply-chain)
 [![Data Volume](https://img.shields.io/badge/Dataset-1M%2B%20Rows%20%7C%20996K%20Fact%20Lines-success?style=flat-square&logo=database)](https://github.com/Akshay-Notfound/supply-chain)
-[![Architecture](https://img.shields.io/badge/Data%20Model-l%20Star%20Schema-8A2BE2?style=flat-square&logo=diagram-next)](https://github.com/Akshay-Notfound/supply-chain)
+[![Architecture](https://img.shields.io/badge/Data%20Model-%20Star%20Schema-8A2BE2?style=flat-square&logo=diagram-next)](https://github.com/Akshay-Notfound/supply-chain)
 [![Net Sales](https://img.shields.io/badge/Net%20Sales-%24380M%20USD-FFD700?style=flat-square&logo=cashapp)](https://github.com/Akshay-Notfound/supply-chain)
 [![Git LFS](https://img.shields.io/badge/Storage-Git%20LFS%20Enabled-orange?style=flat-square&logo=git-lfs)](https://github.com/Akshay-Notfound/supply-chain)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)](LICENSE)
@@ -103,7 +103,7 @@ The following live animated pipeline visualizes the journey from raw transaction
 
 1. **Extraction & Ingestion:** Raw 1,000,000-row transactional extract ingested via `LOAD DATA LOCAL INFILE` into MySQL.
 2. **Quality Audit & SQL KPIs:** Integrity validation with `COUNT(*)`, period-to-date baseline queries, and YoY growth CTEs.
-3. **Dimensional Data Modeling:** Deconstructed into a l Star Schema with 2 Fact Tables and 4 Dimension Tables.
+3. **Dimensional Data Modeling:** Deconstructed into a Star Schema with 2 Fact Tables and 4 Dimension Tables.
 4. **Multi-BI Serving Layer:** Replicated across Microsoft Excel (Slicers & Maps), Tableau (Geo-Analytics & Seasonality), and Power BI (DAX Time-Intelligence).
 5. **Reconciliation & Strategic Value:** Metric auditing, join fan-out correction, inventory replenishment thresholds, and margin optimization.
 
@@ -382,7 +382,7 @@ supply-chain/
 │   ├── dashboard_showcase.gif                      # [NEW] Cinematic showcase cycling dashboards
 │   ├── kpi_metrics_ticker.gif                      # [NEW] Dynamic glassmorphic KPI ticker
 │   ├── data_pipeline_flow.gif                      # [NEW] Animated end-to-end data pipeline flow
-│   ├── architecture_star_schema.png                # l Star Schema dimensional data model
+│   ├── architecture_star_schema.png                # Star Schema dimensional data model
 │   ├── mysql_workbench_queries.png                 # SQL load validation, CTEs, and KPI grids
 │   ├── excel_interactive_dashboard.png             # Excel slicer dashboard with US choropleth map
 │   ├── tableau_supply_chain_dashboard.png          # Tableau operational performance dashboard
