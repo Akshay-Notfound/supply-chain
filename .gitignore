@@ -1,0 +1,23 @@
+# Temporary Office & Excel lock files
+~$*.xlsx
+~$*.xlsm
+~$*.pptx
+*.tmp
+
+# Temporary Tableau files
+*.twbr
+~*.twbr
+~*.twb
+~*.twbx
+
+# Operating System files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
