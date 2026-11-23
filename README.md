@@ -14,11 +14,11 @@
 <!-- Author & Partner Badges -->
 <p align="center">
   <a href="https://github.com/Akshay-Notfound">
-    <img src="https://img.shields.io/badge/Project%20Lead-Akshay-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Akshay" />
+    <img src="https://img.shields.io/badge/Data%20Engineer-Akshay-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Akshay - Data Engineer" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/shubhtej1505/">
-    <img src="https://img.shields.io/badge/Project%20Partner-Tejaswini-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="Tejaswini" />
+    <img src="https://img.shields.io/badge/Business%20Analyst-Tejaswini-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="Tejaswini - Business Analyst" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Akshay-Notfound/supply-chain">
@@ -37,7 +37,7 @@
 ---
 
 ### 👥 Project Authors & Collaboration Hub (Group-5)
-*Engineered and delivered collaboratively by Akshay & Tejaswini:*
+*Engineered and delivered collaboratively: Akshay (Data Engineer) & Tejaswini (Business Analyst):*
 
 <p align="center">
   <img src="assets/team_contributors.gif" alt="Group-5 Contributors: Akshay & Tejaswini" width="98%" style="border-radius: 12px; box-shadow: 0 8px 25px rgba(0,0,0,0.5);" />
@@ -435,8 +435,8 @@ This enterprise business intelligence initiative was collaboratively engineered 
 
 | Contributor | Role & Domain Focus | GitHub Profile |
 | :---: | :--- | :---: |
-| <a href="https://github.com/Akshay-Notfound"><img src="https://github.com/Akshay-Notfound.png" width="85px;" alt="Akshay" style="border-radius: 50%;" /><br /><sub><b>Akshay</b></sub></a> | **Lead Analytics & Engineering**<br />• Kimball Star Schema Data Modeling<br />• MySQL Advanced KPI Queries & Window Functions<br />• Multi-Tool Architecture & Reconciliation | [![GitHub](https://img.shields.io/badge/Akshay--Notfound-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshay-Notfound) |
-| <a href="https://github.com/shubhtej1505/"><img src="https://github.com/shubhtej1505.png" width="85px;" alt="Tejaswini" style="border-radius: 50%;" /><br /><sub><b>Tejaswini</b></sub></a> | **Project Partner & BI Analyst**<br />• Business Intelligence & Dashboard Design<br />• Inventory Metrics & Supply Chain Analysis<br />• Report Synthesis & Data Storytelling | [![GitHub](https://img.shields.io/badge/shubhtej1505-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhtej1505/) |
+| <a href="https://github.com/Akshay-Notfound"><img src="https://github.com/Akshay-Notfound.png" width="85px;" alt="Akshay" style="border-radius: 50%;" /><br /><sub><b>Akshay</b></sub></a> | **Data Engineer**<br />• Kimball Star Schema Data Modeling<br />• MySQL Advanced KPI Queries & Window Functions<br />• Multi-Tool Architecture & Reconciliation | [![GitHub](https://img.shields.io/badge/Akshay--Notfound-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshay-Notfound) |
+| <a href="https://github.com/shubhtej1505/"><img src="https://github.com/shubhtej1505.png" width="85px;" alt="Tejaswini" style="border-radius: 50%;" /><br /><sub><b>Tejaswini</b></sub></a> | **Business Analyst**<br />• Business Intelligence & Dashboard Design<br />• Inventory Metrics & Supply Chain Analysis<br />• Report Synthesis & Data Storytelling | [![GitHub](https://img.shields.io/badge/shubhtej1505-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhtej1505/) |
 
 </div>
 
